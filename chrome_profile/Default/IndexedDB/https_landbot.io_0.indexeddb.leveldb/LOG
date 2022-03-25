@@ -1,0 +1,6 @@
+2022/03/21-09:25:09.986 22f08 Creating DB C:\Users\Ghulam Mustafa\Desktop\Stocktwist\chrome_profile\Default\IndexedDB\https_landbot.io_0.indexeddb.leveldb since it was missing.
+2022/03/21-09:25:10.003 22f08 Reusing MANIFEST C:\Users\Ghulam Mustafa\Desktop\Stocktwist\chrome_profile\Default\IndexedDB\https_landbot.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/21-09:30:15.295 ca38 Level-0 table #5: started
+2022/03/21-09:30:15.303 ca38 Level-0 table #5: 12952 bytes OK
+2022/03/21-09:30:15.307 ca38 Delete type=0 #3
+2022/03/21-09:30:15.307 ca38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

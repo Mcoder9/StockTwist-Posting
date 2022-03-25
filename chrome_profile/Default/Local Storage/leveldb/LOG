@@ -1,0 +1,12 @@
+2022/03/22-20:17:05.855 2328c Reusing MANIFEST C:\Users\Ghulam Mustafa\Desktop\Stocktwist\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2022/03/22-20:17:05.856 2328c Recovering log #812
+2022/03/22-20:17:05.857 2328c Reusing old log C:\Users\Ghulam Mustafa\Desktop\Stocktwist\chrome_profile\Default\Local Storage\leveldb/000812.log 
+2022/03/22-20:30:32.800 12098 Level-0 table #817: started
+2022/03/22-20:30:32.805 12098 Level-0 table #817: 22348 bytes OK
+2022/03/22-20:30:32.808 12098 Delete type=0 #812
+2022/03/22-20:47:00.017 2173c Level-0 table #819: started
+2022/03/22-20:47:00.027 2173c Level-0 table #819: 21614 bytes OK
+2022/03/22-20:47:00.029 2173c Delete type=0 #816
+2022/03/22-20:53:12.453 2173c Level-0 table #821: started
+2022/03/22-20:53:12.462 2173c Level-0 table #821: 30068 bytes OK
+2022/03/22-20:53:12.466 2173c Delete type=0 #818

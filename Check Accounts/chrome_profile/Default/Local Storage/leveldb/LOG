@@ -1,0 +1,21 @@
+2022/03/24-12:29:39.757 6130 Reusing MANIFEST C:\Users\Ghulam Mustafa\Desktop\Check Accounts\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2022/03/24-12:29:39.759 6130 Recovering log #19
+2022/03/24-12:29:39.759 6130 Reusing old log C:\Users\Ghulam Mustafa\Desktop\Check Accounts\chrome_profile\Default\Local Storage\leveldb/000019.log 
+2022/03/24-12:32:45.023 6130 Level-0 table #23: started
+2022/03/24-12:32:45.031 6130 Level-0 table #23: 20748 bytes OK
+2022/03/24-12:32:45.035 6130 Delete type=0 #19
+2022/03/24-12:37:19.299 7990 Level-0 table #25: started
+2022/03/24-12:37:19.305 7990 Level-0 table #25: 18156 bytes OK
+2022/03/24-12:37:19.308 7990 Delete type=0 #22
+2022/03/24-12:41:23.646 6130 Level-0 table #27: started
+2022/03/24-12:41:23.658 6130 Level-0 table #27: 17484 bytes OK
+2022/03/24-12:41:23.661 6130 Delete type=0 #24
+2022/03/24-12:41:23.661 6130 Compacting 4@0 + 1@1 files
+2022/03/24-12:41:23.667 6130 Generated table #28@0: 817 keys, 16526 bytes
+2022/03/24-12:41:23.667 6130 Compacted 4@0 + 1@1 files => 16526 bytes
+2022/03/24-12:41:23.669 6130 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/24-12:41:23.670 6130 Delete type=2 #17
+2022/03/24-12:41:23.670 6130 Delete type=2 #20
+2022/03/24-12:41:23.670 6130 Delete type=2 #23
+2022/03/24-12:41:23.670 6130 Delete type=2 #25
+2022/03/24-12:41:23.670 6130 Delete type=2 #27

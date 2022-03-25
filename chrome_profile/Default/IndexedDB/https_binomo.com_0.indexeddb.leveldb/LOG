@@ -1,0 +1,6 @@
+2022/03/13-09:09:22.782 3158 Creating DB C:\Users\Ghulam Mustafa\Desktop\Stocktwist\chrome_profile\Default\IndexedDB\https_binomo.com_0.indexeddb.leveldb since it was missing.
+2022/03/13-09:09:22.792 3158 Reusing MANIFEST C:\Users\Ghulam Mustafa\Desktop\Stocktwist\chrome_profile\Default\IndexedDB\https_binomo.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/13-09:09:28.003 5674 Level-0 table #5: started
+2022/03/13-09:09:28.006 5674 Level-0 table #5: 828 bytes OK
+2022/03/13-09:09:28.010 5674 Delete type=0 #3
+2022/03/13-09:09:28.010 5674 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
